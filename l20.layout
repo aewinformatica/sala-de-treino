@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="lesson20.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="bola.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="bola.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="timer.cpp" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="timer.h" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="onofre.cpp" Top="Yes" Tabpos="6" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+	</Files>
+</Layout>
